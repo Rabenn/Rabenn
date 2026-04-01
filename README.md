@@ -34,8 +34,8 @@
 ## 📊 Actividad y Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabenn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Stats de Rabenn" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabenn&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="180px">
+  <img src="https://github-readme-stats-gamma-topaz-53.vercel.app/api?username=Rabenn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Stats de Rabenn" height="180px">
+  <img src="https://github-readme-stats-gamma-topaz-53.vercel.app/api/top-langs/?username=Rabenn&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="180px">
 </p>
 
 
