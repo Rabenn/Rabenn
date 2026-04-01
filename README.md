@@ -51,7 +51,7 @@ Si quieres colaborar en un proyecto, ¡no dudes en contactarme!
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+
 
 <p align="center">
   <sub>Rabenn. Actualizado: 2026</sub>
