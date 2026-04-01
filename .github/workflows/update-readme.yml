@@ -12,7 +12,11 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4 # Actualizado a v4
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: actions/checkout@v4
+      - name: Update README
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "⚡ Actualizada actividad reciente"
+          MAX_LINES: 10
