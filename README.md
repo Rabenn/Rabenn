@@ -50,6 +50,7 @@ Si quieres colaborar en un proyecto, ¡no dudes en contactarme!
 ## Actividad Reciente
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 <p align="center">
