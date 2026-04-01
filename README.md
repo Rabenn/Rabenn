@@ -47,6 +47,11 @@ Si quieres colaborar en un proyecto, ¡no dudes en contactarme!
 - 📧 **Email:** <a href="mailto:rubenxioluna@gmail.com">rubenxioluna@gmail.com</a>
 - 📂 **Portafolio:** Revisa mis repositorios para ver mis proyectos.
 
+## Actividad Reciente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <p align="center">
   <sub>Rabenn. Actualizado: 2026</sub>
 </p>
