@@ -18,5 +18,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          GH_USERNAME: Rabenn
           COMMIT_MSG: "⚡ Actualizada actividad reciente"
           MAX_LINES: 10
